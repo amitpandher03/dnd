@@ -5,6 +5,7 @@ Funzionalità Principali
 
 1. **Sistema di Videochiamata/Audiochiamata** 
    - WebRTC per chiamate in tempo reale
+   - Agora.io o Twilio come alternative 
    - Condivisione schermo per mappe e token
    - Chat testuale integrata
 
